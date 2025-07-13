@@ -25,6 +25,10 @@
 
   * Use the navigation bar to access different sections.
 
+<img width="940" height="499" alt="image" src="https://github.com/user-attachments/assets/72a9db9e-fc18-422c-a7b2-99e25e9f359d" />
+<img width="940" height="499" alt="image" src="https://github.com/user-attachments/assets/41bda1c7-f824-4221-8f69-002311afac2e" />
+
+
 ---
 
 ## ℹ️ 3. About Page (`About.html`)
@@ -37,6 +41,8 @@
 * **How to use**:
 
   * Read to learn about the organization.
+
+<img width="940" height="501" alt="image" src="https://github.com/user-attachments/assets/8dd7b6ae-54c5-4ff8-8179-5a259462bfc9" />
 
 ---
 
@@ -52,21 +58,29 @@
   * Scroll through activities.
   * Click on event links to register or learn more, if available.
 
+<img width="940" height="499" alt="image" src="https://github.com/user-attachments/assets/c8844e57-c76c-4bbb-9535-1e797cf4133d" />
+<img width="940" height="498" alt="image" src="https://github.com/user-attachments/assets/42af2699-1a5f-42e2-8ca7-fa75616ec565" />
+
 ---
 
-## 📞 5. Contact Us Page (`ContactUs.html`)
+##💰 5. Donation Page (Donate.html)
 
-* **Purpose**: Allows users to send inquiries or feedback.
+* **Purpose**: Enables users to support the Earth Savers Organization through donations.
 * **Features**:
 
-  * Contact form with fields for Name, Email, and Message.
-  * Submit button to send the message.
-  * Confirmation message upon successful submission.
+  * A donation form with fields for Name, Email, and Donation Amount.
+  * Dropdown or selection for payment method (e.g., Credit/Debit card, e-Wallet).
+  * Submit button to confirm the donation.
+  * A thank-you message shown after successful submission.
+
 * **How to use**:
 
-  1. Fill out the required fields.
-  2. Click **Submit**.
-  3. Wait for confirmation.
+  * Fill in your name, email, and desired donation amount.
+  * Select your preferred payment method (if applicable).
+  * Click Donate Now.
+  * You’ll receive a confirmation message after a successful submission.
+
+<img width="940" height="498" alt="image" src="https://github.com/user-attachments/assets/8919402d-5586-40ad-b4ab-d12dfa271d62" />
 
 ---
 
@@ -84,10 +98,6 @@
 
 * **Local/session storage** is used to manage login state and user navigation for the session.
 * User data is not retained after logout for privacy.
-
----
-
-Great follow-up! Here's how you can add **Instructions for Downloading and Running the HTML Project Locally** at the end of your README:
 
 ---
 
